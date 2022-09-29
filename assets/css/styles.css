@@ -359,6 +359,10 @@ img {
   margin-left: 10%;
 }
 
+.first_proj .about__img {
+  width: 500px;
+  height: 500px;
+}
 
 
 /* ===== CONTACT =====*/
@@ -519,7 +523,11 @@ img {
     padding-top: 2rem;
   }
   .about__img img {
-    width: 300px;
+    width: 400px;
+  }
+
+  .first_proj .about__img img {
+    width: 500px;
   }
 
   .project__container {
