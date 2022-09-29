@@ -352,6 +352,13 @@ img {
   transform: scale(1.1);
 }
 
+.first_proj .button{
+  display: inline block;
+  /* align-self: center; */
+  margin-top: 5%;
+  margin-left: 10%;
+}
+
 
 
 /* ===== CONTACT =====*/
@@ -369,7 +376,7 @@ img {
 .home__social {
   display: flex;
   flex-direction: column;
-  margin-left: 45%;
+  margin-left: 47%;
 }
 
 .home__social-icon {
